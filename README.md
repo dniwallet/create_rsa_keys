@@ -1,5 +1,5 @@
 # Crear un par de claves RSA
-Plantilla para crear una par de claves RSA de 4096 bits
+Plantilla para crear un par de claves RSA de 4096 bits
 
 ```sh
 # Generación del par RSA de 4086 bits
